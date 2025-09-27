@@ -1,0 +1,8 @@
+-----------------------------------------
+   Final Model Evaluation Metrics
+-----------------------------------------
+Chosen Model: Support Vector Machine (SVM)
+Baseline Accuracy: 0.8333
+Optimized Accuracy: 0.8261
+Improvement: -0.0072
+AUC Score (Baseline): 0.9117
